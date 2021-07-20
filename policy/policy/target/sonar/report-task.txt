@@ -1,0 +1,6 @@
+projectKey=com.cognizant.policy:policy
+serverUrl=http://localhost:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://localhost:9000/dashboard?id=com.cognizant.policy%3Apolicy
+ceTaskId=AXrDJzqAXowhVWp9yldO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXrDJzqAXowhVWp9yldO
